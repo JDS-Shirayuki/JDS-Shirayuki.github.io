@@ -1,1 +1,17 @@
 theme: jekyll-theme-slate
+
+# Heading
+
+***Styling text***
+
+In the words of me:
+> Quoting text
+
+Some Git commands:
+```
+git add
+git commit
+```
+
+This website is [GitHub Pages](https://jds-shirayuki.github.io/).
+
