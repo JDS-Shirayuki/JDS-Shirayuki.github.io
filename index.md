@@ -1,3 +1,12 @@
+In the words of me:
+> Quoting text
+
+Some Git commands here:
+```
+git add
+git commit
+```
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JDS-Shirayuki/JDS-Shirayuki.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
