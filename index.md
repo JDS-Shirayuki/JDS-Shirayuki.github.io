@@ -1,3 +1,4 @@
+![](https://upload.wikimedia.org/wikipedia/commons/f/f9/Dragon_Li_Named_Taiga4_20150829.jpg)
 
 # A large heading
 
