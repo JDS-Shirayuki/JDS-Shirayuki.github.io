@@ -1,3 +1,4 @@
+
 # A large heading
 
 ***Styling text***
@@ -11,7 +12,8 @@ git add
 git commit
 ```
 
-[Just anothor file](JDS-Shirayuki.github.io/_config.yml)
+[Link to this page](https://jds-shirayuki.github.io/)
+[Relative link](JDS-Shirayuki.github.io/_config.yml)
 
 - List 1
 - List 2
