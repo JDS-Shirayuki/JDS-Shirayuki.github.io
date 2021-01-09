@@ -7,6 +7,16 @@ git add
 git commit
 ```
 
+[Just anothor file](JDS-Shirayuki.github.io/_config.yml)
+
+- List 1
+- List 2
+- List 3
+
+- [x] Finish task 1
+- [ ] Finish task 2
+- [x] Finish task 3
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JDS-Shirayuki/JDS-Shirayuki.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
